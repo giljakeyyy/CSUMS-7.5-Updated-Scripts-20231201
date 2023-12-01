@@ -1,0 +1,1 @@
+DROP VIEW [dbo].[vw_SOA_Moving]

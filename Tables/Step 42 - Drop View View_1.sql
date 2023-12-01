@@ -1,0 +1,1 @@
+DROP VIEW [dbo].[View_1]
