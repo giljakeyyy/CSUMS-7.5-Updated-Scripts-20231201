@@ -1,0 +1,2 @@
+CREATE NONCLUSTERED INDEX ix_CPaym_VIII
+ON [dbo].[Cpaym] ([ORNum])
