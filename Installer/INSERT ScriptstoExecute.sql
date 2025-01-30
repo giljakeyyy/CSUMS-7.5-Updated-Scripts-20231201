@@ -1,7 +1,7 @@
-INSERT ScriptstoExecute
+INSERT scriptsTOExecute
 (
-	ExecSequence,ExecObjectType,
-	ScriptPath
+	execSequence,execObjectType,
+	scriptPath
 )
 VALUES
 (

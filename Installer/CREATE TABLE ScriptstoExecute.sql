@@ -1,8 +1,8 @@
-CREATE TABLE ScriptstoExecute
+CREATE TABLE scriptsTOExecute
 (
-	ExecId int identity(1,1),
-	ExecSequence int,
-	ExecObjectType VARCHAR(50),
-	ScriptPath VARCHAR(250),
+	execID int identity(1,1),
+	execSequence int,
+	execObjectType VARCHAR(50),
+	scriptPath VARCHAR(250),
 	CONSTRAINT UQ_ScriptstoExecute UNIQUE(ScriptPath)
 )
